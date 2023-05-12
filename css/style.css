@@ -1,0 +1,22 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap"); */
+
+h1 {
+  color: brown;
+}
+
+.ilk {
+  color: darkblue;
+  font-size: 55px;
+  background-color: yellow;
+  text-align: center;
+  font-family: "Oswald";
+  font-weight: 500;
+}
+
+.ikinci {
+  color: blueviolet;
+  font-size: 20px;
+  background-color: aquamarine;
+}
+
+/* px 1rem 16px */
